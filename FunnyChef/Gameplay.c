@@ -8,7 +8,7 @@ void renderGameplay()
 {
     // delete and change it ///////////
     DrawCenteredText(
-        "OMG THIS IS GAMEPLAY",
+        "OOOOOOOOOMG THIS IS GAMEPLAY",
         0.3,
         gameConfig.fontSizeHeader3,
         WHITE

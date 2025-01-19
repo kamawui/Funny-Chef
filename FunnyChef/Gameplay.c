@@ -26,7 +26,7 @@ void renderGameplay()
         WHITE
     );
     DrawHint(
-        "(press backspace to return, press space to continue)",
+        "(press backspace to return)",
         0.65,
         gameConfig.fontSizeParagraph,
         WHITE
